@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feb 24th 2017
 
 ### Student Name:  
-(First and Last Name)
+Bryan Levy
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Constructing a tax calculator application
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+https://theblevs.github.io/lesson5_javascript2/
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. else/if statements are used for decision making structures
+2. document.getElementById statements are used to fetch information
+3. How to clear documents with innerHTML
